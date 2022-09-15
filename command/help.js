@@ -512,5 +512,5 @@ ${mundur}
 exports.donate = (pushname, ownerNumber) => {
 return`
 Contact Owner:
-wa.me/6285214110608?text=Bang+mau+donasi`
+Brtz: wa.me/6285214110608`
 }
